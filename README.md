@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil do Lyraa Dev 😁
-
+  Desenvolvedor Web Full Stack Jr.<br>
+  Atualmente aprendendo NodeJs e React
  <div>
    <a href="https://github.com/Lyraa-Dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lyraa-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
