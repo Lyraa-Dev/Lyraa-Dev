@@ -1,5 +1,5 @@
 ## Olá, eu sou o Ricardo Lyra 😁
-  Desenvolvedor Web Full Stack Jr.<br>
+  Desenvolvedor Front-End Jr.<br>
   Atualmente estudando NodeJs e React
  <div>
    <a href="https://github.com/Lyraa-Dev">
