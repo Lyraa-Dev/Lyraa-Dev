@@ -1,6 +1,6 @@
 ## Olá, eu sou o Ricardo Lyra 😁
   Desenvolvedor Front-End Jr.<br>
-  Atualmente estudando NodeJs e React
+  Atualmente estudando JAVA e ReactJS
  <div>
    <a href="https://github.com/Lyraa-Dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lyraa-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
