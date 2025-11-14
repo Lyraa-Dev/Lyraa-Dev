@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td>Capacidade de Liderança</td>
+    <td>Colaboração e trabalho em equipe</td>
     <td>Empatia</td>
   </tr>
   <tr>
