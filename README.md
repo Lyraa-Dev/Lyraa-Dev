@@ -1,6 +1,14 @@
 ## Olá, eu sou o Ricardo Lyra 😁
-  Desenvolvedor Front-End Jr.<br>
-  Atualmente estudando JAVA e ReactJS
+  Engenheiro de Dados Jr.<br>
+  Atualmente cursando Ciencias da Computação<br>
+<br>
+  🌟 Soft Skills
+Habilidades Técnicas	Habilidades Interpessoais
+Capacidade de Liderança	Empatia
+Criatividade	Inteligência Emocional
+Resoluto	Paciência
+Flexibilidade	Capacidade de Comunicação
+Resiliência	Companheiro
  <div>
    <a href="https://github.com/Lyraa-Dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lyraa-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
