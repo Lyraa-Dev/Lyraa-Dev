@@ -2,13 +2,30 @@
   Engenheiro de Dados Jr.<br>
   Atualmente cursando Ciencias da Computação<br>
 <br>
-  🌟 Soft Skills
-Habilidades Técnicas	Habilidades Interpessoais
-Capacidade de Liderança	Empatia
-Criatividade	Inteligência Emocional
-Resoluto	Paciência
-Flexibilidade	Capacidade de Comunicação
-Resiliência	Companheiro
+## 🌟 Soft Skills
+
+<table>
+  <tr>
+    <td>Capacidade de Liderança</td>
+    <td>Empatia</td>
+  </tr>
+  <tr>
+    <td>Criatividade</td>
+    <td>Inteligência Emocional</td>
+  </tr>
+  <tr>
+    <td>Resoluto</td>
+    <td>Paciência</td>
+  </tr>
+  <tr>
+    <td>Flexibilidade</td>
+    <td>Capacidade de Comunicação</td>
+  </tr>
+  <tr>
+    <td>Resiliência</td>
+    <td>Companheiro</td>
+  </tr>
+</table>
  <div>
    <a href="https://github.com/Lyraa-Dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lyraa-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
